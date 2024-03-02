@@ -1,0 +1,7 @@
+﻿  25.cpp
+D:\AAA unitbv fmi mi\SD\TEMA 2\25\25\25.cpp(27,85): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+  25.vcxproj -> D:\AAA unitbv fmi mi\SD\TEMA 2\25\x64\Debug\25.exe
